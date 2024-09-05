@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+}
+
+
+#myButton {
+    font-size: 2em;
+    border-radius: 40%;
+}
+
+.myLabel {
+    font-size: 2em;
+    display: grid;
+}

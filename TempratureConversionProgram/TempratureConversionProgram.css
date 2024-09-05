@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    background-color: #272020;
+    font-family: sans-serif;
+    color: aliceblue;
+}
+form {
+    background-color: black;
+    max-width: 350px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 15px;
+    box-shadow: 6px 5px #f3e40d8c;
+}
+h1 {
+    color: #f3e40d;
+}
+#myTextBox {
+    border-radius: 5px;
+    margin-bottom: 25px;
+    font-size: 1.3em;
+    box-shadow: 1px 1px #f3e40d;
+}
+.radioBtn {
+    font-size: 5em;
+    cursor: pointer;
+}
+label {
+    font-size: 1.4em;
+}
+button {
+    margin-top: 20px;
+    font-size: 1.5em;
+    padding: 5px;
+    border-radius: 8px;
+    background-color: #f3e40d;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #fdf479ea;
+}
+p {
+    font-size: 1.5em;
+    font-weight: bold;
+}
